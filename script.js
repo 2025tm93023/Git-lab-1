@@ -1,4 +1,6 @@
-function  welcome(){
-  console.log("Hello from JavaScript Branch");
+
+function welcome() {
+ console.log("Hello from Javascript Branch");
 }
-Welcome();
+
+welcome();
