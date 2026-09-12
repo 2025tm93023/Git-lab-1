@@ -6,3 +6,12 @@ Verify Javascript application executes scuccesfully.
 
 Expected Result:
 Javascript application should display the expected output.
+
+Test Script 
+Version: 1.2
+
+Test Case 2:
+Verify welcome function produce expected output.
+
+Expected Result:
+All JavaScript tests should pass.
