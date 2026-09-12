@@ -1,0 +1,8 @@
+Test Script
+Version: 1.1
+
+Test Case 1:
+Verify Javascript application executes scuccesfully.
+
+Expected Result:
+Javascript application should display the expected output.
