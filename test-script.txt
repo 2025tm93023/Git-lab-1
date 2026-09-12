@@ -1,0 +1,7 @@
+Version: 1.1
+
+Test Case 1:
+Verify Java application exeutes successfully.
+
+Expected Result:
+Java application should display the expected output.
